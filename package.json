@@ -1,9 +1,9 @@
 {
-  "name": "@openimis/fe-language_fr",
+  "name": "@openimis/fe-language_fr_rdc",
   "version": "1.5.0",
   "license": "AGPL-3.0-only",
-  "description": "openIMIS French translations of reference modules",
-  "repository": "openimis/openimis-fe-language_fr_js",
+  "description": "openIMIS French RDC translations of reference modules",
+  "repository": "openimis/openimis-fe-language_fr_rdc_js",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "engines": {
