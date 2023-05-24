@@ -5,6 +5,6 @@ const DEFAULT_CONFIG = {
   "translations": [{ key: 'fr', messages: flatten(messages_fr) }],
 }
 
-export const LanguageFrModule = (cfg) => {
+export const LanguageFrRdcModule = (cfg) => {
   return { ...DEFAULT_CONFIG, ...cfg };
 }
